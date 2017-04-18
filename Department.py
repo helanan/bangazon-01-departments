@@ -57,7 +57,7 @@ if __name__ == '__main__':
 
     print("---------------------------")
     print("Surpise! All Department Reached Their Goals, Budgets have been increased!")
-    print("Increased Department Budgets To:" + str(clothing.departmentName()) + str(clothing.budget))
+    print("Increased Department Budgets To:" + str(clothing.budget))
     print("Increased Department Budgets To:" + str(toys.budget))
     print("Increased Department Budgets To:" + str(groceries.budget))
     print("Increased Department Budgets To:" + str(homegoods.budget))
